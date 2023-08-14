@@ -15,6 +15,7 @@ GIF Images
 </p>
 
 <br>
+
 ## 기술 스택
 
 |    HTML    |     CSS    |  JavaScript  |
@@ -44,7 +45,7 @@ GIF Images
 
 ## 라이센스
 
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
+MIT &copy;
 
 <!-- Stack Icon Refernces -->
 
