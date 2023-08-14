@@ -1,7 +1,7 @@
 # TodoList
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="/ReadMe_images/todolist.PNG">
   <br>
 </p>
 ## 프로젝트 소개
@@ -17,9 +17,9 @@ GIF Images
 <br>
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+|    HTML    |     CSS    |  JavaScript  |
+| :--------: | :--------: |   :------:   |
+|   ![html]  |   ![css]   |    ![js]     |
 
 <br>
 
@@ -48,8 +48,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
+[html]: /ReadMe_images/html.svg
+[css]: /ReadMe_images/css.svg
+[js]: /ReadMe_images/javascript.svg
 
