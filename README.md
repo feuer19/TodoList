@@ -3,7 +3,7 @@
   <br>
   <img src="/ReadMe_images/todolist.PNG">
   <br>
-</p
+</p>
   
 ## 프로젝트 소개
 
