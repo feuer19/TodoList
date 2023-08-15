@@ -15,6 +15,9 @@
 <p align="center">
   <br>
 아이템 추가 제거, 그리고 상태별 할일을 볼수있는 앱입니다.
+  
+* 개발 인원: 1명(개인 프로젝트)
+* Deployment: netlify
 </p>
 
 <br>
